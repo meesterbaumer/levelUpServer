@@ -1,0 +1,35 @@
+[
+  {
+      "model": "levelupapi.event",
+      "pk": 1,
+      "fields": {
+          "gamer": 1,
+          "day": "2020-12-02",
+          "time": "13:00",
+          "location": "Mike's House",
+          "game": 1
+      }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+        "gamer": 1,
+        "day": "2020-11-01",
+        "time": "13:00",
+        "location": "Online",
+        "game": 2
+    }
+  },  
+  {
+    "model": "levelupapi.event",
+    "pk": 3,
+    "fields": {
+        "gamer": 1,
+        "day": "2020-12-25",
+        "time": "16:00",
+        "location": "Basement",
+        "game": 3
+    }
+  }
+]
